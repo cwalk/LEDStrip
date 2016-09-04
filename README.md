@@ -3,6 +3,7 @@ Various scripts for LED strips, mostly for NeoPixel or DotStar, written in C/Ard
 
 ## YouTube
 
+YouTube: https://www.youtube.com/watch?v=i0hqUdyi-dQ&feature=youtu.be
 
 ## Diagram
 
